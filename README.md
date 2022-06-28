@@ -88,5 +88,3 @@ Below are some examples of output that is produced for each difficulty level.
 +---------+---------+---------+
 ```
 **Note** that it usually takes ~10 seconds to generate the hard puzzle.
-# License
-[MIT](https://choosealicense.com/licenses/mit/)
